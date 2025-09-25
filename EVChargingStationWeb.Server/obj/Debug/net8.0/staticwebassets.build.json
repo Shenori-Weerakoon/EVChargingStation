@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4nkJ721IgC9subfcOR8luV1Xe0u7uNiuJHksjPV5nos=",
+  "Source": "EVChargingStationWeb.Server",
+  "BasePath": "_content/EVChargingStationWeb.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
